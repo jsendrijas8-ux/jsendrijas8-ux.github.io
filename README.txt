@@ -1,0 +1,1 @@
+Jay-ar Sendrijas portfolio website. Open index.html to preview. Upload index.html and style.css to a static hosting service. The public site uses Bataan, Philippines rather than a precise home address for privacy.
